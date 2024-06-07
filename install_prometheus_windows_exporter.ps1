@@ -1,7 +1,7 @@
 #--------------------------------------------------------------------
 # PowerShell Script to Install Prometheus Windows_Exporter on Windows
 # Tested on Windows Server 2019, 2022
-# Developed by Denis Astahov in 2024
+# Developed by Oleksandr Kulynych in 2024
 #--------------------------------------------------------------------
 # https://github.com/prometheus-community/windows_exporter/releases
 $WINDOWS_EXPORTER_VERSION="0.25.1"
